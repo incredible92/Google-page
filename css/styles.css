@@ -1,0 +1,141 @@
+#nav-items {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    color:gray;
+}
+
+img {
+    max-width: 100%;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+
+.link {
+    margin-right: 0.5rem;
+}
+.app {
+    max-width: 50%;
+    width: 2rem;
+    height: 3rem;
+}
+.img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+
+.search {
+    max-width: 50%;
+    width: 2rem;
+    height: 3rem;
+}
+
+.voice {
+    max-width: 50%;
+    width: 2rem;
+    height: 3rem;
+}
+
+#googlelogo {
+    text-align: center;
+    margin: 3rem auto;
+}
+
+#search-space {
+    display: flex;
+    border-radius: 20px;
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    border: 1px solid gray;
+    justify-content: space-between;
+    
+    
+}
+.search {
+    width: 1rem;
+    height: 1rem;
+    
+}
+
+#search-1 {
+    border: none;
+      
+}
+#search-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.text {
+    color: gray;
+}
+
+.lucky {
+    display: flex;
+    margin-right: 1rem;
+    border: 1px solid none;
+    background-color:lightgray;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 1.5rem;
+    padding: 0.5rem;
+}
+
+#languages {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.speak {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.lang {
+    margin-right: 0.5rem;
+    color: blue
+}
+
+.offered {
+    color: grey;
+}
+
+
+#engagement {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+}
+
+.economy {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+.work {
+    margin-right: 0.5rem;
+    color: grey;
+}
+
+#naija {
+    display: flex;
+    padding-left: 2rem;
+    color: gray; 
+    background-color: lightgray;
+    margin-top: 5rem;
+    border-bottom: 2px solid gray;
+}
